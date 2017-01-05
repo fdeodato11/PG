@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PG</string>
+    <string name="main_tittle">Paladins Beta       Guide</string>
+    <string name="Button1">Champions</string>
 </resources>
